@@ -29,24 +29,6 @@ Logistic Regression: Predict likelihood of HIV program enrollment.
 
 Factor Analysis: Identify latent factors influencing MSM HIV service satisfaction and uptake.
 
-📂 Project Structure
-├── data/
-│   └── atlo_research_data.csv   # Cleaned dataset
-├── scripts/
-│   ├── 01_data_cleaning.R
-│   ├── 02_descriptive_analysis.R
-│   ├── 03_inferential_tests.R
-│   ├── 04_factor_analysis.R
-│   └── utils.R
-├── results/
-│   ├── descriptive_stats.csv
-│   ├── anova_results.csv
-│   ├── logistic_regression_output.txt
-│   └── factor_analysis_loadings.csv
-├── OUTPUT.pdf   # SPSS output used for triangulation
-├── README.md
-└── requirements.txt   # R package dependencies
-
 📦 Dependencies
 
 Install the required R packages before running the scripts:
