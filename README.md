@@ -7,27 +7,27 @@ The dataset includes information on age, sub-county, HIV program enrollment stat
 
 🎯 Objectives
 
-Assess the effects of MSM-affiliated community-based organizations on HIV prevention uptake.
+- Assess the effects of MSM-affiliated community-based organizations on HIV prevention uptake.
 
-Investigate factors related to stigma reduction and discrimination.
+- Investigate factors related to stigma reduction and discrimination.
 
-Explore satisfaction levels with HIV services across sub-counties and age groups.
+- Explore satisfaction levels with HIV services across sub-counties and age groups.
 
-Identify underlying factors (via Factor Analysis) that influence service utilization.
+- Identify underlying factors (via Factor Analysis) that influence service utilization.
 
 🛠️ Methods & Analyses Performed
 
-Descriptive Statistics: Age distributions, enrollment status, satisfaction levels.
+- Descriptive Statistics: Age distributions, enrollment status, satisfaction levels.
 
-Chi-Square Test: Association between sub-county and satisfaction rate.
+- Chi-Square Test: Association between sub-county and satisfaction rate.
 
-Independent Samples T-test: Compare satisfaction between enrolled vs. non-enrolled participants.
+- Independent Samples T-test: Compare satisfaction between enrolled vs. non-enrolled participants.
 
-ANOVA: Test differences in satisfaction across sub-counties and age groups.
+- ANOVA: Test differences in satisfaction across sub-counties and age groups.
 
-Logistic Regression: Predict likelihood of HIV program enrollment.
+- Logistic Regression: Predict likelihood of HIV program enrollment.
 
-Factor Analysis: Identify latent factors influencing MSM HIV service satisfaction and uptake.
+- Factor Analysis: Identify latent factors influencing MSM HIV service satisfaction and uptake.
 
 📦 Dependencies
 
@@ -39,27 +39,27 @@ install.packages(c("tidyverse", "psych", "GPArotation", "car", "broom"))
 
 Clone the repository:
 
-git clone https://github.com/yourusername/msm-hiv-analysis.git
-cd msm-hiv-analysis
+git clone https://github.com/joyouscami/amref-research.git
+cd amref-research
 
 
-Open R or RStudio and run the scripts in sequence (01_data_cleaning.R → 04_factor_analysis.R).
+Open R or RStudio and run the scripts.
 
 Outputs (tables, plots, regression summaries) will be saved in the results/ folder.
 
 📊 Key Findings
 
-Satisfaction levels vary significantly across sub-counties.
+- Satisfaction levels vary significantly across sub-counties.
 
-Enrollment status alone does not fully explain satisfaction differences.
+- Enrollment status alone does not fully explain satisfaction differences.
 
-Age is significantly associated with satisfaction levels.
+- Age is significantly associated with satisfaction levels.
 
-Two latent factors explain ~58% of variance:
+- Two latent factors explain ~58% of variance:
 
-Regional variations (Sub-county influence)
+    Regional variations (Sub-county influence)
 
-Program enrollment status
+    Program enrollment status
 
 🚀 Future Work
 
@@ -72,7 +72,3 @@ Expand analysis with longitudinal data.
 🧑‍🤝‍🧑 Acknowledgments
 
 This project was conducted in collaboration with ATLO, a key-population-led community-based organization in Embu County. Special thanks to MSM community members who participated in the study.
-
-📜 License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
