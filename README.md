@@ -48,7 +48,7 @@ Open R or RStudio and run the scripts.
 
 Outputs (tables, plots, regression summaries) will be saved in the results/ folder.
 
-Key Findings
+### Key Findings
 
 - Satisfaction levels vary significantly across sub-counties.
 
