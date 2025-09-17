@@ -1,11 +1,12 @@
 MSM HIV Services Analysis – Embu County
-📌 Project Overview
+
+###Project Overview
 
 This project investigates the barriers and facilitators to accessing HIV services among men who have sex with men (MSM) in Embu County, Kenya. The study uses both descriptive and inferential statistical methods in R to evaluate service uptake, satisfaction levels, and the role of community-based organizations in HIV prevention.
 
 The dataset includes information on age, sub-county, HIV program enrollment status, and satisfaction rates, with additional qualitative insights from focus groups.
 
-🎯 Objectives
+Objectives
 
 - Assess the effects of MSM-affiliated community-based organizations on HIV prevention uptake.
 
@@ -15,7 +16,7 @@ The dataset includes information on age, sub-county, HIV program enrollment stat
 
 - Identify underlying factors (via Factor Analysis) that influence service utilization.
 
-🛠️ Methods & Analyses Performed
+Methods & Analyses Performed
 
 - Descriptive Statistics: Age distributions, enrollment status, satisfaction levels.
 
@@ -29,7 +30,7 @@ The dataset includes information on age, sub-county, HIV program enrollment stat
 
 - Factor Analysis: Identify latent factors influencing MSM HIV service satisfaction and uptake.
 
-📦 Dependencies
+Dependencies
 
 Install the required R packages before running the scripts:
 
@@ -47,7 +48,7 @@ Open R or RStudio and run the scripts.
 
 Outputs (tables, plots, regression summaries) will be saved in the results/ folder.
 
-📊 Key Findings
+Key Findings
 
 - Satisfaction levels vary significantly across sub-counties.
 
@@ -61,7 +62,7 @@ Outputs (tables, plots, regression summaries) will be saved in the results/ fold
 
     Program enrollment status
 
-🚀 Future Work
+Future Work
 
 Incorporate qualitative findings (focus group themes).
 
