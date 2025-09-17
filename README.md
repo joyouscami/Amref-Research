@@ -6,7 +6,7 @@ This project investigates the barriers and facilitators to accessing HIV service
 
 The dataset includes information on age, sub-county, HIV program enrollment status, and satisfaction rates, with additional qualitative insights from focus groups.
 
-Objectives
+### Objectives
 
 - Assess the effects of MSM-affiliated community-based organizations on HIV prevention uptake.
 
@@ -16,7 +16,7 @@ Objectives
 
 - Identify underlying factors (via Factor Analysis) that influence service utilization.
 
-Methods & Analyses Performed
+### Methods & Analyses Performed
 
 - Descriptive Statistics: Age distributions, enrollment status, satisfaction levels.
 
@@ -30,7 +30,7 @@ Methods & Analyses Performed
 
 - Factor Analysis: Identify latent factors influencing MSM HIV service satisfaction and uptake.
 
-Dependencies
+### Dependencies
 
 Install the required R packages before running the scripts:
 
@@ -62,7 +62,7 @@ Key Findings
 
     Program enrollment status
 
-Future Work
+### Future Work
 
 Incorporate qualitative findings (focus group themes).
 
@@ -70,6 +70,6 @@ Build interactive dashboards (Shiny or Power BI).
 
 Expand analysis with longitudinal data.
 
-🧑‍🤝‍🧑 Acknowledgments
+### Acknowledgments
 
 This project was conducted in collaboration with ATLO, a key-population-led community-based organization in Embu County. Special thanks to MSM community members who participated in the study.
