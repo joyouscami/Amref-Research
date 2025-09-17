@@ -1,6 +1,6 @@
 MSM HIV Services Analysis – Embu County
 
-###Project Overview
+### Project Overview
 
 This project investigates the barriers and facilitators to accessing HIV services among men who have sex with men (MSM) in Embu County, Kenya. The study uses both descriptive and inferential statistical methods in R to evaluate service uptake, satisfaction levels, and the role of community-based organizations in HIV prevention.
 
