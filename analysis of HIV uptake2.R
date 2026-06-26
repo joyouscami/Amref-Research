@@ -2,7 +2,7 @@
 
 
 
-setwd("C:/Lazarus/LZD/AMREF/JIVIS/ATLO")
+setwd("C:/AMREF/ATLO")
 
 
 xfun::pkg_attach(c('boot','car','caret','coin','correlation','corrplot','dplyr',
